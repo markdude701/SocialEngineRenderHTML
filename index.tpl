@@ -10,8 +10,8 @@ This is my DIV element.</div>
 </iframe>
 </div>
 
-<script>function myFunction() 
-{	var y = document.getElementById("second_div");    
+<script>function myFunction() {	
+var y = document.getElementById("second_div");    
 var x = document.getElementById("myDIV");    
 if (x.style.display === "none") {
   x.style.display = "block";
